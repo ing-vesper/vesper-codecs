@@ -1,0 +1,6 @@
+Scala library for encoding/decoding XML documents.
+
+Links:
+
+ - [[https://ing-vesper.github.io/vesper-codecs/ Homepage]]
+ - [[https://github.com/ing-vesper/vesper-codecs GitHub repository]]
